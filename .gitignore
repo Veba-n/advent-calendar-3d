@@ -22,3 +22,9 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Local Project Info / Draft Metadata (Do not push to GitHub)
+*info*.md
+info.md
+info.txt
+
