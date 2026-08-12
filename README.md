@@ -1,8 +1,8 @@
-# 3D Advent Calendar 🎄✨
+# Advent Calendar 3D 🎄✨
 
 An interactive, immersive 3D holiday countdown experience built with **React**, **Three.js**, **@react-three/fiber**, and **@react-three/drei**. Explore a cozy low-poly winter village house, open 24 interactive windows, and discover inspirational holiday notes each day.
 
-![Advent Calendar Preview](https://raw.githubusercontent.com/placeholder/advent-calendar/main/preview.png)
+![Advent Calendar Preview](https://raw.githubusercontent.com/Veba-n/advent-calendar-3d/main/preview.png)
 
 ---
 
@@ -43,10 +43,10 @@ An interactive, immersive 3D holiday countdown experience built with **React**, 
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/advent-calendar.git
+git clone https://github.com/Veba-n/advent-calendar-3d.git
 
 # Navigate into project directory
-cd advent-calendar
+cd advent-calendar-3d
 
 # Install dependencies
 npm install
